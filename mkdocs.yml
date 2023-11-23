@@ -1,0 +1,14 @@
+site_name: 経済・ファイナンスデータの計量時系列分析
+
+nav:
+  - はじめに: index.md
+  - "第1章 時系列分析の基礎概念": chapter01.ipynb
+  - "第2章 ARMA過程": chapter02.ipynb
+
+theme:
+  name: material
+
+use_directory_urls: false
+
+plugins:
+  - mkdocs-jupyter
